@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/color-color/static/css/main.073c9b0a.css",
-    "main.js": "/color-color/static/js/main.a70d57d5.js",
-    "static/js/787.e6d05b0f.chunk.js": "/color-color/static/js/787.e6d05b0f.chunk.js",
-    "static/media/logo.svg": "/color-color/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/color-color/index.html",
-    "main.073c9b0a.css.map": "/color-color/static/css/main.073c9b0a.css.map",
-    "main.a70d57d5.js.map": "/color-color/static/js/main.a70d57d5.js.map",
-    "787.e6d05b0f.chunk.js.map": "/color-color/static/js/787.e6d05b0f.chunk.js.map"
+    "main.css": "/react-component/static/css/main.073c9b0a.css",
+    "main.js": "/react-component/static/js/main.838377e5.js",
+    "static/js/787.e6d05b0f.chunk.js": "/react-component/static/js/787.e6d05b0f.chunk.js",
+    "static/media/logo.svg": "/react-component/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-component/index.html",
+    "main.073c9b0a.css.map": "/react-component/static/css/main.073c9b0a.css.map",
+    "main.838377e5.js.map": "/react-component/static/js/main.838377e5.js.map",
+    "787.e6d05b0f.chunk.js.map": "/react-component/static/js/787.e6d05b0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a70d57d5.js"
+    "static/js/main.838377e5.js"
   ]
 }
